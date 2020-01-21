@@ -10,20 +10,21 @@ namespace IEP
         {
             //add goal bank ... ooohhh sppoookyyy
 
-
             //------------------------------------------------Leave Alone-------------------------//
             List<AreasOfSped> SDI = new List<AreasOfSped>();
             List<string> PreviouseGoal = new List<string>();
             List<string> NextGoal = new List<string>();
             List<string> reports = new List<string>();
-            List<Goal> rGoal = new List<Goal>();
-            List<Goal> wGoal = new List<Goal>();
-            List<Goal> fGoal = new List<Goal>();
-            List<Goal> mGoal = new List<Goal>();
+            List<PresentLevels> rGoal = new List<PresentLevels>();
+            List<PresentLevels> wGoal = new List<PresentLevels>();
+            List<PresentLevels> fGoal = new List<PresentLevels>();
+            List<PresentLevels> mGoal = new List<PresentLevels>();
             List<Classes> Schedual = new List<Classes>();
 
             Classes c = new Classes();
             Student s = new Student();
+            GoalBank g = new GoalBank();
+
             int sped = 0;
             string spedClass = "";
             string heShe;

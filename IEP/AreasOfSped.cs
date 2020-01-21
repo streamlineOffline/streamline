@@ -5,9 +5,9 @@ namespace IEP
     public class AreasOfSped
     {
         public string SDI { get; private set; }
-        public List<Goal> Goals;
+        public List<PresentLevels> Goals;
 
-        public AreasOfSped(string sdi, List<Goal> goals)
+        public AreasOfSped(string sdi, List<PresentLevels> goals)
         {
             SDI = sdi;
             Goals = goals;

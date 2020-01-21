@@ -199,11 +199,11 @@ namespace IEP
         }
 
 
-        public List<Goal> AddGoals()
+        public List<PresentLevels> AddGoals()
         {
             string input = "";
             string subArea = "", prevGoal = "", status = "", nextGoal = "";
-            List<Goal> goal = new List<Goal>();
+            List<PresentLevels> goal = new List<PresentLevels>();
             while (true)
             {
                 Console.Write("Add goal? (y/n) ");
@@ -223,7 +223,7 @@ namespace IEP
                     Console.Write("Next Goal: ");
                     nextGoal = Console.ReadLine();
 
-                    goal.Add(new Goal(subArea, prevGoal, status, nextGoal));
+                    goal.Add(new PresentLevels(subArea, prevGoal, status, nextGoal));
                 }
                 else if (input == "n")
                     return goal;

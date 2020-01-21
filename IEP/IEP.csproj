@@ -35,8 +35,9 @@
     <Compile Include="student.cs" />
     <Compile Include="classes.cs" />
     <Compile Include="AreasOfSped.cs" />
-    <Compile Include="Goal.cs" />
+    <Compile Include="PresentLevel.cs" />
     <Compile Include="Transition.cs" />
+    <Compile Include="GoalBank.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
 </Project>

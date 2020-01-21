@@ -17,3 +17,8 @@
 /Volumes/Seagate Backup Plus Drive/Custom Backup/cs273/DatabaseZip_Practice/IEP/obj/Debug/IEP.csprojAssemblyReference.cache
 /Volumes/Seagate Backup Plus Drive/Custom Backup/cs273/DatabaseZip_Practice/IEP/obj/Debug/IEP.exe
 /Volumes/Seagate Backup Plus Drive/Custom Backup/cs273/DatabaseZip_Practice/IEP/obj/Debug/IEP.pdb
+/Volumes/Seagate Backup Plus Drive/Custom Backup/cs273/DatabaseZip_Practice/streamline/streamline/IEP/bin/Debug/IEP.exe
+/Volumes/Seagate Backup Plus Drive/Custom Backup/cs273/DatabaseZip_Practice/streamline/streamline/IEP/bin/Debug/IEP.pdb
+/Volumes/Seagate Backup Plus Drive/Custom Backup/cs273/DatabaseZip_Practice/streamline/streamline/IEP/obj/Debug/IEP.csprojAssemblyReference.cache
+/Volumes/Seagate Backup Plus Drive/Custom Backup/cs273/DatabaseZip_Practice/streamline/streamline/IEP/obj/Debug/IEP.exe
+/Volumes/Seagate Backup Plus Drive/Custom Backup/cs273/DatabaseZip_Practice/streamline/streamline/IEP/obj/Debug/IEP.pdb
